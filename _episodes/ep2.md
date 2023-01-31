@@ -23,7 +23,7 @@ Data repositories are classified based on **the purpose of data repository** int
 
 A) Controlled access repository for sensitive data: explained in details in [data sharing lesson of RDMkit](https://rdmkit.elixir-europe.org/sharing) and we will explain this type of repository in the next episode
 
-B) Discipline specific repository: there are known repository for different data types e.g arrayexpress for high-throughput functional genomics experiments
+B) Discipline specific repository: there are known repository for different data types e.g Arrayexpress for high-throughput functional genomics experiments
 
 C) Institutional repository: In case you can not find suitable repository for your data set, some universities have their own general purpose repositories. For instance, **University of Reading Research Data Archive** is a general purpose repository that have similar features e.g. controlled access ... etc to other databases. It can be used for students and researchers.
 
