@@ -130,7 +130,7 @@ If you are working with sensitive data, you have to declare the data permitted u
 - How will you collect the data?
 - How is Data annonymization and pseudonymization handled?
 
-To know what are the other steps you need to do and write, you can check DSW For sensitive data, the DSW have questions dedicated to describing the collection and processing of sensitive data
+To know what are the other steps you need to do and write, you can check DSW For sensitive data, the DSW have questions dedicated to describing the collection and processing of sensitive data.
 
 > ## Resources
 > - A nice recipe from FAIRcookbook on [SSH protocols](https://faircookbook.elixir-europe.org/content/recipes/> accessibility/sftp.html)
